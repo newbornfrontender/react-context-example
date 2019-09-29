@@ -1,7 +1,7 @@
-import { React, html, css } from '/shared.js';
+import { React, html, css } from '/react-context-example/shared.js';
 
-import Counter from '/components/Counter.js';
-import { CounterContext } from '/components/Store.js';
+import Counter from '/react-context-example/components/Counter.js';
+import { CounterContext } from '/react-context-example/components/Store.js';
 
 const styles = css`
   h1 {

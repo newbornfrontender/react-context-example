@@ -1,4 +1,4 @@
-import { React, html } from '/shared.js';
+import { React, html } from '/react-context-example/shared.js';
 
 export const CounterContext = React.createContext(0);
 

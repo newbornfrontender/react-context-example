@@ -1,6 +1,6 @@
-import { React, html, css } from '/shared.js';
+import { React, html, css } from '/react-context-example/shared.js';
 
-import { CounterContext } from '/components/Store.js';
+import { CounterContext } from '/react-context-example/components/Store.js';
 
 const styles = css`
   display: inline-flex;
